@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ashlesh Thakur
+| Solving tech puzzles and creating masterpieces, one line of code or brushstroke at a time 🎨💻 | Night owl🌙 pondering the mysteries of code and finding inspiration in the beauty of the outdoors🌿 or hustle of the inside💪 | Java Enthusiast ☕️ | Python & .NET Veteran 🐍 |
 
 <!--
 **AshuSomething/AshuSomething** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshuSomething&theme=dark&show_icons=true)
+
 
