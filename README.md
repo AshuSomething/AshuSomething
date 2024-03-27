@@ -1,7 +1,8 @@
 ### Ashlesh Thakur
 | Solving tech puzzles and creating masterpieces, one line of code or brushstroke at a time 🎨💻 | Night owl🌙 pondering the mysteries of code and finding inspiration in the beauty of the outdoors🌿 or hustle of the inside💪 | Java Enthusiast ☕️ | Python & .NET Veteran 🐍 |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuSomething&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshuSomething&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **AshuSomething/AshuSomething** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
